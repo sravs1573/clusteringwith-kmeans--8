@@ -30,7 +30,7 @@ The goal of this task is to apply **K-Means Clustering** on a shopping mall data
    - Computed Within-Cluster Sum of Squares (WCSS) for `k=1 to 10`.
    - Optimal number of clusters found = **5**.  
 
-   ![Elbow Method](t8 output1.png)
+   ![Elbow Method](t8output1.png)
 
 5. **K-Means Clustering**
    - Applied `KMeans(n_clusters=5, random_state=42)`.
